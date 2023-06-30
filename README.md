@@ -1,2 +1,2 @@
 # MsAvocadoBlog
-Blog increíble para el curso de Git y GutHub
+Blog increíble para el curso de Git y GitHub
